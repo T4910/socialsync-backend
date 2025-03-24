@@ -10,6 +10,5 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250214.0",
     "wrangler": "^3.109.2"
-  },
-  "$npm_execpath": "pnpm"
+  }
 }
